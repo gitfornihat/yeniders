@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/yeniders/static/css/main.41dd706d.css",
+    "main.js": "/yeniders/static/js/main.a5270e5c.js",
+    "static/media/logo.svg": "/yeniders/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/yeniders/index.html",
+    "main.41dd706d.css.map": "/yeniders/static/css/main.41dd706d.css.map",
+    "main.a5270e5c.js.map": "/yeniders/static/js/main.a5270e5c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41dd706d.css",
+    "static/js/main.a5270e5c.js"
+  ]
+}
